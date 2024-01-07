@@ -1,0 +1,131 @@
+{
+  "HealthyCitrusPlant": {
+    "Overview": "Maintaining a healthy citrus plant is essential for optimal growth, fruit production, and resilience against diseases and pests.",
+    "IndicatorsOfHealth": [
+      "Vibrant green leaves",
+      "Normal fruit development",
+      "No signs of lesions or discoloration",
+      "Robust growth with well-formed branches",
+      "Minimal leaf drop"
+    ],
+    "OptimalConditions": {
+      "Sunlight": "Full sunlight for at least 6-8 hours a day.",
+      "Watering": "Consistent and appropriate watering, avoiding waterlogged soil.",
+      "Nutrients": "Balanced fertilization with essential nutrients like nitrogen, phosphorus, and potassium.",
+      "Pruning": "Regular pruning to remove dead or diseased branches and promote airflow."
+    },
+    "Monitoring": "Regularly inspect the plant for signs of diseases, pests, or nutrient deficiencies.",
+    "PreventiveMeasures": [
+      "Implement good sanitation practices.",
+      "Apply preventive fungicides and insecticides as needed.",
+      "Provide adequate support for young branches and fruit-bearing limbs."
+    ]
+  },
+  "CitrusCanker": {
+    "Overview": "Citrus canker is a bacterial disease affecting citrus trees with blemishes on leaves, fruit, and stems.",
+    "Symptoms": [
+      "Lesions on leaves",
+      "Fruit blemishes",
+      "Stem scabs",
+      "Leaf and fruit drop"
+    ],
+    "TriggerAndSpread": "Spread through rain, wind-driven rain, and contaminated tools; enters through natural openings or wounds.",
+    "BiologicalControl": {
+      "BeneficialMicroorganisms": "Introduce microorganisms that compete with the pathogen.",
+      "NaturalPredators": "Encourage natural predators of the canker-causing bacteria."
+    },
+    "ChemicalControl": {
+      "CopperBasedSprays": "Use copper-based fungicides to reduce bacterial growth.",
+      "Antibiotics": "Apply antibiotics like streptomycin in severe cases."
+    },
+    "PreventiveMeasures": [
+      "Sanitation practices for tools and equipment.",
+      "Implement quarantine measures.",
+      "Consider resistant citrus varieties.",
+      "Early detection through regular inspections.",
+      "Prune and destroy infected plant parts."
+    ]
+  },
+  "CitrusGreening": {
+    "Overview": "Citrus greening, also known as Huanglongbing, is a devastating bacterial disease affecting citrus trees.",
+    "Symptoms": [
+      "Yellowing of leaves",
+      "Misshapen, bitter fruit",
+      "Stunted growth",
+      "Premature fruit drop"
+    ],
+    "TriggerAndSpread": "Spread by citrus psyllids, tiny insects that feed on citrus trees and transmit the bacteria.",
+    "BiologicalControl": {
+      "PredatoryInsects": "Introduce predators of citrus psyllids, such as parasitic wasps."
+    },
+    "ChemicalControl": {
+      "Insecticides": "Use insecticides to control citrus psyllid populations."
+    },
+    "PreventiveMeasures": [
+      "Regular monitoring for psyllid presence.",
+      "Remove and destroy infected trees.",
+      "Planting disease-free citrus stock.",
+      "Implementing quarantine measures."
+    ]
+  },
+  "CitrusGummosis": {
+    "Overview": "Citrus gummosis is a condition where gum-like substances are exuded from the trunk or branches of citrus trees.",
+    "Symptoms": [
+      "Gum oozing from trunk or branches",
+      "Cankers on bark",
+      "Dieback of branches"
+    ],
+    "TriggerAndSpread": "Often caused by wounds, environmental stress, or fungal infections.",
+    "BiologicalControl": {
+      "BeneficialMicroorganisms": "Introduce beneficial microorganisms to combat fungal pathogens."
+    },
+    "ChemicalControl": {
+      "Fungicides": "Apply fungicides to control fungal infections."
+    },
+    "PreventiveMeasures": [
+      "Avoid trunk injuries during cultivation.",
+      "Provide proper irrigation and nutrients.",
+      "Apply preventive fungicides regularly."
+    ]
+  },
+  "LeafMiner": {
+    "Overview": "Leaf miners are insects that create tunnels or mines in the leaves of citrus trees during their larval stage.",
+    "Symptoms": [
+      "Winding trails or tunnels on leaves",
+      "Leaf discoloration",
+      "Reduced photosynthesis"
+    ],
+    "TriggerAndSpread": "Adult leaf miners lay eggs on the leaves, and the hatched larvae create mines as they feed.",
+    "BiologicalControl": {
+      "PredatoryInsects": "Encourage natural predators of leaf miners, such as parasitoid wasps."
+    },
+    "ChemicalControl": {
+      "Insecticides": "Use insecticides to control leaf miner populations."
+    },
+    "PreventiveMeasures": [
+      "Regularly monitor for signs of leaf miners.",
+      "Remove and destroy infested leaves.",
+      "Use reflective mulch to deter egg-laying."
+    ]
+  },
+  "LemonButterfly": {
+    "Overview": "Lemon butterfly, also known as citrus swallowtail, is a butterfly species whose larvae feed on citrus leaves.",
+    "Symptoms": [
+      "Chewed or skeletonized leaves",
+      "Damage to young shoots",
+      "Reduced fruit yield"
+    ],
+    "TriggerAndSpread": "Larvae hatch from eggs laid on citrus leaves by adult lemon butterflies.",
+    "BiologicalControl": {
+      "PredatoryInsects": "Encourage natural predators of lemon butterfly larvae, such as birds and parasitoid wasps."
+    },
+    "ChemicalControl": {
+      "Insecticides": "Use insecticides to control lemon butterfly populations."
+    },
+    "PreventiveMeasures": [
+      "Regularly inspect citrus trees for eggs and larvae.",
+      "Remove and destroy infested leaves and larvae.",
+      "Use protective nets to prevent adult butterflies from laying eggs."
+    ]
+  }
+}
